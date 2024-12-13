@@ -1,0 +1,21 @@
+# OpenWeatherMap API Configuration
+# Replace these dummy values with your actual values
+# DO NOT commit your actual API key to version control
+
+# Your OpenWeatherMap API key
+API_KEY=c6036e62195842bcac3162715240911
+
+# Base URL for OpenWeatherMap API
+BASE_URL=https://api.openweathermap.org/data/2.5
+
+# Optional configurations
+# Units (metric, imperial, or standard)
+UNITS=metric
+
+# Language for responses
+LANGUAGE=en
+
+# Default city ID or coordinates (if needed)
+DEFAULT_CITY=London
+DEFAULT_LAT=51.5074
+DEFAULT_LON=-0.1278
